@@ -157,4 +157,4 @@
             style="@style/dialog_blue_button"
             android:text="@string/dialog_ok" />
     </LinearLayout>
-</LinearLayout><!-- From: file:/Users/LingChen/Documents/CodeC/Eatery/Android/Eatery/libraries/sweet-alert-dialog/src/main/res/layout/alert_dialog.xml --><!-- From: file:/Users/LingChen/Documents/CodeC/Eatery/Android/Eatery/libraries/sweet-alert-dialog/build/intermediates/bundles/debug/res/layout/alert_dialog.xml -->
+</LinearLayout><!-- From: file:/D:/CodeC/Eatery/Android/Eatery/libraries/sweet-alert-dialog/src/main/res/layout/alert_dialog.xml --><!-- From: file:/D:/CodeC/Eatery/Android/Eatery/libraries/sweet-alert-dialog/build/intermediates/bundles/debug/res/layout/alert_dialog.xml -->

@@ -15,4 +15,4 @@
         android:fromAlpha="1"
         android:toAlpha="0"
         android:duration="150"/> -->
-</set><!-- From: file:/Users/LingChen/Documents/CodeC/Eatery/Android/Eatery/libraries/sweet-alert-dialog/src/main/res/anim/modal_out.xml --><!-- From: file:/Users/LingChen/Documents/CodeC/Eatery/Android/Eatery/libraries/sweet-alert-dialog/build/intermediates/bundles/debug/res/anim/modal_out.xml -->
+</set><!-- From: file:/D:/CodeC/Eatery/Android/Eatery/libraries/sweet-alert-dialog/src/main/res/anim/modal_out.xml --><!-- From: file:/D:/CodeC/Eatery/Android/Eatery/libraries/sweet-alert-dialog/build/intermediates/bundles/debug/res/anim/modal_out.xml -->
